@@ -4,6 +4,7 @@ A collection of articles and lectures for coding and understanding CS stuff
 # Blogs
 - [Coding Horror](https://blog.codinghorror.com/)
 - [Joel on Software](http://www.joelonsoftware.com/)
+- [Jon Skeet] (https://codeblog.jonskeet.uk/)
 
 # Important Stuff
 ## Java
