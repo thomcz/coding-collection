@@ -12,6 +12,7 @@ A collection of articles and lectures for coding and understanding CS stuff
 - [volatile vs static variables] (http://stackoverflow.com/a/12193970)
 - [what does serialization of an object mean?] (http://stackoverflow.com/a/447920)
 - [nested classes](http://docs.oracle.com/javase/tutorial/java/javaOO/nested.html)
+- [visibility and access of member](http://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
 
 # Coding
 ## How To's
