@@ -20,3 +20,6 @@ A collection of articles and lectures for coding and understanding CS stuff
 
 ### Java
 - [how to implement singelton pattern in Java?] (http://www.drdobbs.com/jvm/creating-and-destroying-java-objects-par/208403883?pgno=3)
+
+### Android
+- [how to create a circular progress bar](http://stackoverflow.com/a/27269329)
