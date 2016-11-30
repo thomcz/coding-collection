@@ -11,6 +11,7 @@ A collection of articles and lectures for coding and understanding CS stuff
 - [Java is pass-by-value!] (http://javadude.com/articles/passbyvalue.htm)
 - [volatile vs static variables] (http://stackoverflow.com/a/12193970)
 - [what does serialization of an object mean?] (http://stackoverflow.com/a/447920)
+- [nested classes](http://docs.oracle.com/javase/tutorial/java/javaOO/nested.html)
 
 # Coding
 ## Tutorials
