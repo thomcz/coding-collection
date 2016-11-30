@@ -14,7 +14,7 @@ A collection of articles and lectures for coding and understanding CS stuff
 - [nested classes](http://docs.oracle.com/javase/tutorial/java/javaOO/nested.html)
 
 # Coding
-## Tutorials
+## How To's
 ### C*#*
 - [Xamarin mobile app with SQL backend in Azure](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-xamarin-forms-get-started)
 - [how to implement singelton pattern in C#?](http://csharpindepth.com/Articles/General/Singleton.aspx)
@@ -24,3 +24,7 @@ A collection of articles and lectures for coding and understanding CS stuff
 
 ### Android
 - [how to create a circular progress bar](http://stackoverflow.com/a/27269329)
+
+### Eclipse
+- [how to create Eclipse preferences?](http://www.vogella.com/tutorials/EclipsePreferences/article.html#tutorial-preferences-via-code)
+ - [how to store preferences across workspaces?](http://stackoverflow.com/a/13320825)
