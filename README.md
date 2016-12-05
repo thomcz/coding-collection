@@ -19,6 +19,7 @@ A collection of articles and lectures for coding and understanding CS stuff
 ### C*#*
 - [Xamarin mobile app with SQL backend in Azure](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-xamarin-forms-get-started)
 - [how to implement singelton pattern in C#?](http://csharpindepth.com/Articles/General/Singleton.aspx)
+- [strategy pattern without creating new instances every time](http://codereview.stackexchange.com/questions/58489/strategy-pattern-instances-based-on-enums)
 
 ### Java
 - [how to implement singelton pattern in Java?] (http://www.drdobbs.com/jvm/creating-and-destroying-java-objects-par/208403883?pgno=3)
