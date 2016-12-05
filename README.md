@@ -30,3 +30,8 @@ A collection of articles and lectures for coding and understanding CS stuff
 ### Eclipse
 - [how to create Eclipse preferences?](http://www.vogella.com/tutorials/EclipsePreferences/article.html#tutorial-preferences-via-code)
  - [how to store preferences across workspaces?](http://stackoverflow.com/a/13320825)
+ 
+### Raspberry Pi
+- [GPIO of raspberry pi 1](https://developer-blog.net/raspberry-pi-gpio-schnittstelle-teil-1/)
+- [how to use gpio](http://raspberrypiguide.de/howtos/raspberry-pi-gpio-how-to/)
+- [setup Wifi in command line](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md)
