@@ -35,3 +35,4 @@ A collection of articles and lectures for coding and understanding CS stuff
 - [GPIO of raspberry pi 1](https://developer-blog.net/raspberry-pi-gpio-schnittstelle-teil-1/)
 - [how to use gpio](http://raspberrypiguide.de/howtos/raspberry-pi-gpio-how-to/)
 - [setup Wifi in command line](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md)
+ - http://raspberrypihq.com/how-to-add-wifi-to-the-raspberry-pi/
