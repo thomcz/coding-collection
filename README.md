@@ -34,6 +34,7 @@ A collection of articles and lectures for coding and understanding CS stuff
 ### Raspberry Pi
 - [how to setup raspberry pi with and without monitor](http://www.powerdev.de/?p=120)
 - [how to connect camera and take video and picture](http://blog.pi3g.com/2013/05/raspberry-pi-kamera-richtig-anschlieen/)
+- [Motion sensor](http://tutorials-raspberrypi.de/raspberry-pi-bewegungsmelder-sensor-pir/)
 - [GPIO of raspberry pi 1](https://developer-blog.net/raspberry-pi-gpio-schnittstelle-teil-1/)
 - [how to use gpio](http://raspberrypiguide.de/howtos/raspberry-pi-gpio-how-to/)
 - [setup Wifi in command line](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md)
