@@ -39,3 +39,6 @@ A collection of articles and lectures for coding and understanding CS stuff
 - [how to use gpio](http://raspberrypiguide.de/howtos/raspberry-pi-gpio-how-to/)
 - [setup Wifi in command line](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md)
  - http://raspberrypihq.com/how-to-add-wifi-to-the-raspberry-pi/
+ 
+ ### Other
+- [Microsoft Face Api Web Console](https://dev.projectoxford.ai/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395236)
