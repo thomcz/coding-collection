@@ -7,6 +7,11 @@ A collection of articles and lectures for coding and understanding CS stuff
 - [Jon Skeet] (https://codeblog.jonskeet.uk/)
 
 # Important Stuff
+## General
+- Git vs. SVN
+ - http://stackoverflow.com/questions/871/why-is-git-better-than-subversion
+ - https://svnvsgit.com/
+ 
 ## Java
 - [Java is pass-by-value!] (http://javadude.com/articles/passbyvalue.htm)
 - [volatile vs static variables] (http://stackoverflow.com/a/12193970)
