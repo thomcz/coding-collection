@@ -31,6 +31,7 @@ A collection of articles and lectures for coding and understanding CS stuff
 
 ### Android
 - [how to create a circular progress bar](http://stackoverflow.com/a/27269329)
+- [create code coverage report](http://www.qaautomated.com/2016/03/how-to-find-code-coverage-with-jacoco.html)
 
 ### Eclipse
 - [how to create Eclipse preferences?](http://www.vogella.com/tutorials/EclipsePreferences/article.html#tutorial-preferences-via-code)
