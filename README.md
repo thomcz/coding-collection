@@ -29,9 +29,16 @@ A collection of articles and lectures for coding and understanding CS stuff
 ### Java
 - [how to implement singelton pattern in Java?] (http://www.drdobbs.com/jvm/creating-and-destroying-java-objects-par/208403883?pgno=3)
 
+### Xtext/Xtend
+- [how to test xtext parser with parser helper](http://zarnekow.blogspot.de/2014/10/testing-multiple-xtext-dsls.html)
+
 ### Android
 - [how to create a circular progress bar](http://stackoverflow.com/a/27269329)
-- [create code coverage report](http://www.qaautomated.com/2016/03/how-to-find-code-coverage-with-jacoco.html)
+- [ViewHolder pattern](http://www.codeofaninja.com/2013/09/android-viewholder-pattern-example.html)
+- Testing
+ - how to test listview adapter [link1](http://stackoverflow.com/a/13731138), [link2](https://colabug.gitbooks.io/intro-to-android-workbook-2/content/list_views/holders.html)
+ - [set up test suit](https://developer.android.com/training/testing/unit-testing/instrumented-unit-tests.html)
+ - [how to create code coverage report](http://www.qaautomated.com/2016/03/how-to-find-code-coverage-with-jacoco.html)
 
 ### Eclipse
 - [how to create Eclipse preferences?](http://www.vogella.com/tutorials/EclipsePreferences/article.html#tutorial-preferences-via-code)
@@ -46,5 +53,5 @@ A collection of articles and lectures for coding and understanding CS stuff
 - [setup Wifi in command line](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md)
  - http://raspberrypihq.com/how-to-add-wifi-to-the-raspberry-pi/
  
- ### Other
+### Other
 - [Microsoft Face Api Web Console](https://dev.projectoxford.ai/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395236)
