@@ -35,10 +35,6 @@ A collection of articles and lectures for coding and understanding CS stuff
 ### Android
 - [how to create a circular progress bar](http://stackoverflow.com/a/27269329)
 - [ViewHolder pattern](http://www.codeofaninja.com/2013/09/android-viewholder-pattern-example.html)
-- Testing
- - how to test listview adapter [link1](http://stackoverflow.com/a/13731138), [link2](https://colabug.gitbooks.io/intro-to-android-workbook-2/content/list_views/holders.html)
- - [set up test suit](https://developer.android.com/training/testing/unit-testing/instrumented-unit-tests.html)
- - [how to create code coverage report](http://www.qaautomated.com/2016/03/how-to-find-code-coverage-with-jacoco.html)
 
 ### Eclipse
 - [how to create Eclipse preferences?](http://www.vogella.com/tutorials/EclipsePreferences/article.html#tutorial-preferences-via-code)
@@ -55,3 +51,28 @@ A collection of articles and lectures for coding and understanding CS stuff
  
 ### Other
 - [Microsoft Face Api Web Console](https://dev.projectoxford.ai/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395236)
+
+# Testing
+## Android
+### General
+- how to test listview adapter [link1](http://stackoverflow.com/a/13731138), [link2](https://colabug.gitbooks.io/intro-to-android-workbook-2/content/list_views/holders.html)
+- [set up test suit](https://developer.android.com/training/testing/unit-testing/instrumented-unit-tests.html)
+- [how to create code coverage report](http://www.qaautomated.com/2016/03/how-to-find-code-coverage-with-jacoco.html)
+
+### Roboletric
+- [Get started](http://robolectric.org/getting-started/)
+- [Unit Testing with Roboletric](https://guides.codepath.com/android/Unit-Testing-with-Robolectric)
+- [Fragments in Roboletric](http://stackoverflow.com/a/12903280)
+
+# Code Quality
+## Travis
+### Android
+ - [Building Android with travis](https://docs.travis-ci.com/user/languages/android/)
+ - [Continous integration on android with travis](http://panavtec.me/continous-integration-on-android-with-travis-ci)
+ 
+## SonarQube
+### Android
+ - Setting up coverage report in android with jacoco and roboletric (and other stuff): [link1](https://medium.com/@rafael_toledo/setting-up-an-unified-coverage-report-in-android-with-jacoco-robolectric-and-espresso-ffe239aaf3fa#.xv5u5xwdl), [link2](https://overflow.buffer.com/2017/01/16/android-test-sonarqube/?lang=en)
+ - [SonarQube for Gradle](https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Gradle#AnalyzingwithSonarQubeScannerforGradle-AdditionaldefaultswhenJaCoCopluginisapplied)
+ 
+
