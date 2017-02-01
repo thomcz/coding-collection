@@ -53,6 +53,9 @@ A collection of articles and lectures for coding and understanding CS stuff
 - [Microsoft Face Api Web Console](https://dev.projectoxford.ai/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395236)
 
 # Testing
+## Java
+- [Junit Rules](http://www.marcphilipp.de/blog/2011/12/22/junit-rules/)
+
 ## Android
 ### General
 - how to test listview adapter [link1](http://stackoverflow.com/a/13731138), [link2](https://colabug.gitbooks.io/intro-to-android-workbook-2/content/list_views/holders.html)
