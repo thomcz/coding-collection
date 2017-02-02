@@ -7,10 +7,10 @@ A collection of articles and lectures for coding and understanding CS stuff
 - [Jon Skeet] (https://codeblog.jonskeet.uk/)
 
 # Important Stuff
-## General
-- Git vs. SVN
- - http://stackoverflow.com/questions/871/why-is-git-better-than-subversion
- - https://svnvsgit.com/
+
+## Git
+- [How to rename folders properly](http://stackoverflow.com/a/11183844)
+- Git vs. SVN [link1](http://stackoverflow.com/questions/871/why-is-git-better-than-subversion), [link2](https://svnvsgit.com/)
  
 ## Java
 - [Java is pass-by-value!] (http://javadude.com/articles/passbyvalue.htm)
