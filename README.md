@@ -35,6 +35,7 @@ A collection of articles and lectures for coding and understanding CS stuff
 ### Android
 - [how to create a circular progress bar](http://stackoverflow.com/a/27269329)
 - [ViewHolder pattern](http://www.codeofaninja.com/2013/09/android-viewholder-pattern-example.html)
+- [how to create a web activity](https://developer.chrome.com/multidevice/webview/gettingstarted) ([how to handle deprecated method in WebViewClient](http://stackoverflow.com/a/36484720))
 
 ### Eclipse
 - [how to create Eclipse preferences?](http://www.vogella.com/tutorials/EclipsePreferences/article.html#tutorial-preferences-via-code)
