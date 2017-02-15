@@ -28,6 +28,7 @@ A collection of articles and lectures for coding and understanding CS stuff
 
 ### Java
 - [how to implement singelton pattern in Java?] (http://www.drdobbs.com/jvm/creating-and-destroying-java-objects-par/208403883?pgno=3)
+- [Class Builder pattern](https://jlordiales.me/2012/12/13/the-builder-pattern-in-practice/)
 
 ### Xtext/Xtend
 - [how to test xtext parser with parser helper](http://zarnekow.blogspot.de/2014/10/testing-multiple-xtext-dsls.html)
