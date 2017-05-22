@@ -4,7 +4,7 @@ A collection of articles and lectures for coding and understanding CS stuff
 # Blogs
 - [Coding Horror](https://blog.codinghorror.com/)
 - [Joel on Software](http://www.joelonsoftware.com/)
-- [Jon Skeet] (https://codeblog.jonskeet.uk/)
+- [Jon Skeet](https://codeblog.jonskeet.uk/)
 
 # Important Stuff
 
@@ -13,13 +13,22 @@ A collection of articles and lectures for coding and understanding CS stuff
 - Git vs. SVN [link1](http://stackoverflow.com/questions/871/why-is-git-better-than-subversion), [link2](https://svnvsgit.com/)
  
 ## Java
-- [Java is pass-by-value!] (http://javadude.com/articles/passbyvalue.htm)
-- [volatile vs static variables] (http://stackoverflow.com/a/12193970)
-- [what does serialization of an object mean?] (http://stackoverflow.com/a/447920)
+- [Java is pass-by-value!](http://javadude.com/articles/passbyvalue.htm)
+- [volatile vs static variables](http://stackoverflow.com/a/12193970)
+- [what does serialization of an object mean?](http://stackoverflow.com/a/447920)
 - [nested classes](http://docs.oracle.com/javase/tutorial/java/javaOO/nested.html)
 - [visibility and access of member](http://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
 
 # Coding
+## IDE
+- [Eclipse](https://www.eclipse.org/downloads/?)
+- [IntelliJ](https://www.jetbrains.com/idea/)
+- [Android Studio](https://developer.android.com/studio/index.html)
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+## Code Kata
+- [codekata.com](http://codekata.com/)
+
 ## How To's
 ### C*#*
 - [Xamarin mobile app with SQL backend in Azure](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-xamarin-forms-get-started)
@@ -27,7 +36,7 @@ A collection of articles and lectures for coding and understanding CS stuff
 - [strategy pattern without creating new instances every time](http://codereview.stackexchange.com/questions/58489/strategy-pattern-instances-based-on-enums)
 
 ### Java
-- [how to implement singelton pattern in Java?] (http://www.drdobbs.com/jvm/creating-and-destroying-java-objects-par/208403883?pgno=3)
+- [how to implement singelton pattern in Java?](http://www.drdobbs.com/jvm/creating-and-destroying-java-objects-par/208403883?pgno=3)
 - [Class Builder pattern](https://jlordiales.me/2012/12/13/the-builder-pattern-in-practice/)
 
 ### Xtext/Xtend
@@ -52,9 +61,14 @@ A collection of articles and lectures for coding and understanding CS stuff
 - [setup Wifi in command line](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md)
  - http://raspberrypihq.com/how-to-add-wifi-to-the-raspberry-pi/
 - [Put a raspberry pi zero into snes controller](https://www.youtube.com/watch?v=j5dXx0NhLxg)
- 
-### Other
+
+### Microsoft Stuff
 - [Microsoft Face Api Web Console](https://dev.projectoxford.ai/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395236)
+- [MS Bot Framework](https://dev.botframework.com/)
+- [LUIS](https://www.luis.ai/home/index)
+
+### Other
+- [Furby Connect Hack](https://github.com/Jeija/bluefluff)
 
 # Testing
 ## Java
