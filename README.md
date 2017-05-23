@@ -5,6 +5,10 @@ A collection of articles and lectures for coding and understanding CS stuff
 - [Coding Horror](https://blog.codinghorror.com/)
 - [Joel on Software](http://www.joelonsoftware.com/)
 - [Jon Skeet](https://codeblog.jonskeet.uk/)
+- [Doc Norton](http://docondev.com/)
+
+# Other Tools
+- [yEd Graph Editor](https://www.yworks.com/products/yed)
 
 # Important Stuff
 
@@ -38,6 +42,7 @@ A collection of articles and lectures for coding and understanding CS stuff
 ### Java
 - [how to implement singelton pattern in Java?](http://www.drdobbs.com/jvm/creating-and-destroying-java-objects-par/208403883?pgno=3)
 - [Class Builder pattern](https://jlordiales.me/2012/12/13/the-builder-pattern-in-practice/)
+- [Remove boilerplate code with Lombok](https://projectlombok.org/)
 
 ### Xtext/Xtend
 - [how to test xtext parser with parser helper](http://zarnekow.blogspot.de/2014/10/testing-multiple-xtext-dsls.html)
@@ -47,6 +52,7 @@ A collection of articles and lectures for coding and understanding CS stuff
 - [ViewHolder pattern](http://www.codeofaninja.com/2013/09/android-viewholder-pattern-example.html)
 - [how to create a web activity](https://developer.chrome.com/multidevice/webview/gettingstarted) ([how to handle deprecated method in WebViewClient](http://stackoverflow.com/a/36484720))
 - [display back button on an toolbar](http://stackoverflow.com/a/34997702)
+- [feedback via hockey app](https://hockeyapp.net/)
 
 ### Eclipse
 - [how to create Eclipse preferences?](http://www.vogella.com/tutorials/EclipsePreferences/article.html#tutorial-preferences-via-code)
@@ -66,6 +72,7 @@ A collection of articles and lectures for coding and understanding CS stuff
 - [Microsoft Face Api Web Console](https://dev.projectoxford.ai/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395236)
 - [MS Bot Framework](https://dev.botframework.com/)
 - [LUIS](https://www.luis.ai/home/index)
+- [App depoyment via Mobile Center](https://mobile.azure.com/login)
 
 ### Other
 - [Furby Connect Hack](https://github.com/Jeija/bluefluff)
@@ -90,7 +97,9 @@ A collection of articles and lectures for coding and understanding CS stuff
 ### Android
  - [Building Android with travis](https://docs.travis-ci.com/user/languages/android/)
  - [Continous integration on android with travis](http://panavtec.me/continous-integration-on-android-with-travis-ci)
- 
+
+## [Bitrise](https://www.bitrise.io/)
+
 ## SonarQube
 ### Android
  - Setting up coverage report in android with jacoco and roboletric (and other stuff): [link1](https://medium.com/@rafael_toledo/setting-up-an-unified-coverage-report-in-android-with-jacoco-robolectric-and-espresso-ffe239aaf3fa#.xv5u5xwdl), [link2](https://overflow.buffer.com/2017/01/16/android-test-sonarqube/?lang=en)
