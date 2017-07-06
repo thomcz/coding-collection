@@ -15,6 +15,7 @@ A collection of articles and lectures for coding and understanding CS stuff
 ## Git
 - [How to rename folders properly](http://stackoverflow.com/a/11183844)
 - Git vs. SVN [link1](http://stackoverflow.com/questions/871/why-is-git-better-than-subversion), [link2](https://svnvsgit.com/)
+- [Merge vs. Rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
  
 ## Java
 - [Java is pass-by-value!](http://javadude.com/articles/passbyvalue.htm)
